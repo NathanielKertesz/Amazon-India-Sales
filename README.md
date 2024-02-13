@@ -9,6 +9,7 @@ Business Insights: We can utilize python to visualize trends and find key metric
 
 Plan of Action: The first step is to extract, prep, and clean the data. We can group and aggregate the data to find many different key metrics such as revenue by product category, total canceled orders, and top selling products by city. We will utilizie Matplotlib to visaulize the data and showcase trends. 
 
-Insights:
+Q2 2022 Amazon India Gross Revenue:
+![grossrv](https://github.com/NathanielKertesz/Amazon-India-Sales/assets/150400699/e477a3e2-37c6-4ec5-a7b3-34147a144afe)
 
-![](images/
+
