@@ -4,9 +4,9 @@
 
 *Data Used: [Amazon E-Commerce Sales](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data/data?select=Amazon+Sale+Report.csv)*
 
-Business Insights: We can utilize python to visualize trends and find key metrics that are important in analyzing how a business is doing and how it may perform. In this case, we will be analyzing Amazon clothing sales in India to assess how this category of the business is performing. By understanding which products and sizes sell best, we can acquire more customers through advertising and increase profits. By analyzing the cashflow, we can better allocate resources and quickly determine which actions are producing the best results. 
+*Business Insights:* We can utilize python to visualize trends and find key metrics that are important in analyzing how a business is doing and how it may perform. In this case, we will be analyzing Amazon clothing sales in India to assess how this category of the business is performing. By understanding which products and sizes sell best, we can acquire more customers through advertising and increase profits. By analyzing the cashflow, we can better allocate resources and quickly determine which actions are producing the best results. 
 
-Plan of Action: We will first extract, prep, and clean the data. In doing this, we can drop duplicate values, fill null values, and remove any unwated columns and rows. We can then group and aggregate the data to find many different key metrics such as revenue by product category, total canceled orders, and top selling products by city. We will utilizie Matplotlib to visaulize the data and showcase trends. 
+*Plan of Action:* We will first extract, prep, and clean the data. In doing this, we can drop duplicate values, fill null values, and remove any unwated columns and rows. We can then group and aggregate the data to find many different key metrics such as revenue by product category, total canceled orders, and top selling products by city. We will utilizie Matplotlib to visaulize the data and showcase trends. 
 
 ![grossrv](https://github.com/NathanielKertesz/Amazon-India-Sales/assets/150400699/e477a3e2-37c6-4ec5-a7b3-34147a144afe)
 
