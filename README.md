@@ -13,6 +13,7 @@
 
 
 ![AvgOrderValue](https://github.com/NathanielKertesz/Amazon-India-Sales/assets/150400699/6e81920e-c260-4dbb-bb3f-014fc5dc817d)
+
 **Figure 2.** Despite decreasing revenues, the average order value increased by 6.1% from April to June. This means that the volume of orders has decreased. Is this a seasonal trend? Have price increases on products contributed to less sales? If so, how have profit margins changed? 
 
 
