@@ -18,13 +18,12 @@
 
 
 ![PercentRevByCat](https://github.com/NathanielKertesz/Amazon-India-Sales/assets/150400699/06f15195-241d-4a1d-ba66-a7d7f22c33a0)
-**Figure 3.**
 ![TopRevByCat](https://github.com/NathanielKertesz/Amazon-India-Sales/assets/150400699/f11e37d9-7fac-4d34-9bd6-d32b02d69158)
 
-**Figure 4.** The set makes up over 50% of revenues yet sales have been decreasing month to month. Is this seasonal? Why is the trend changing? Sales of the western dress increased 32% from April to June. With their high price point and increasing sales performance, prioritizing the sale of these products can build a more resilient and diversified business. 
+**Figure 3 and 4.** The set makes up over 50% of revenues yet sales have been decreasing month to month. Is this seasonal? Why is the trend changing? Sales of the western dress increased 32% from April to June. With their high price point and increasing sales performance, prioritizing the sale of these products can build a more resilient and diversified business. 
 
 
 ![SalesBySize](https://github.com/NathanielKertesz/Amazon-India-Sales/assets/150400699/8fc45f60-f58d-4d05-ac1d-9db095ce36c7)
-**Figure 4.** Sizes M, L, and XL are best sellers for these products. We can use this data to better target our audience through advertising. Furthermore, suppliers can better manage inventories by anticipating future sales. 
+**Figure 5.** Sizes M, L, and XL are best sellers for these products. We can use this data to better target our audience through advertising. Furthermore, suppliers can better manage inventories by anticipating future sales. 
 
 
