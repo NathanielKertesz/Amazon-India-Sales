@@ -11,13 +11,17 @@
 ![grossrv](https://github.com/NathanielKertesz/Amazon-India-Sales/assets/150400699/e477a3e2-37c6-4ec5-a7b3-34147a144afe)
 **Figure 1.** In Q2 2022 gross revenue for clothing has decreased by 9-10% month to month. This is an alarming rate of decrease and should be compared with past quarters and years to see if these fluctuations are normal. The average monthly revenue for this quarter was $279,717.
 
+
 ![AvgOrderValue](https://github.com/NathanielKertesz/Amazon-India-Sales/assets/150400699/6e81920e-c260-4dbb-bb3f-014fc5dc817d)
 **Figure 2.** Despite decreasing revenues, the average order value increased by 6.1% from April to June. This means that the volume of orders has decreased. Is this a seasonal trend? Have price increases on products contributed to less sales? If so, how have profit margins changed? 
 
-![PercentRevByCat](https://github.com/NathanielKertesz/Amazon-India-Sales/assets/150400699/06f15195-241d-4a1d-ba66-a7d7f22c33a0)
 
+![PercentRevByCat](https://github.com/NathanielKertesz/Amazon-India-Sales/assets/150400699/06f15195-241d-4a1d-ba66-a7d7f22c33a0)
+**Figure 3.**
 ![TopRevByCat](https://github.com/NathanielKertesz/Amazon-India-Sales/assets/150400699/f11e37d9-7fac-4d34-9bd6-d32b02d69158)
-**Figure 3.** The set makes up over 50% of revenues yet sales have been decreasing month to month. Is this seasonal? Why is the trend changing? Sales of the western dress increased 32% from April to June. With their high price point and increasing sales performance, prioritizing the sale of these products can build a more resilient and diversified business. 
+
+**Figure 4.** The set makes up over 50% of revenues yet sales have been decreasing month to month. Is this seasonal? Why is the trend changing? Sales of the western dress increased 32% from April to June. With their high price point and increasing sales performance, prioritizing the sale of these products can build a more resilient and diversified business. 
+
 
 ![SalesBySize](https://github.com/NathanielKertesz/Amazon-India-Sales/assets/150400699/8fc45f60-f58d-4d05-ac1d-9db095ce36c7)
 **Figure 4.** Sizes M, L, and XL are best sellers for these products. We can use this data to better target our audience through advertising. Furthermore, suppliers can better manage inventories by anticipating future sales. 
